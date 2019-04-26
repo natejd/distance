@@ -2,6 +2,7 @@
 * Prints the horizontal & vertical distance from one point to another.
  
 # Requirements:
+* Latest version of [SourceMod](http://www.sourcemod.net/downloads.php?branch=dev)
 * Counter-Strike: Source or Counter-Strike: Global Offensive.
 * [MultiColors](https://forums.alliedmods.net/showthread.php?t=247770)
 
