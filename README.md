@@ -1,5 +1,6 @@
 # Distance (CS:S/CS:GO)
 * Prints the horizontal & vertical distance from one point to another.
+* Useless but useful when needed lmao.
  
 # Requirements:
 * Latest version of [Sourcemod](http://www.sourcemod.net)
