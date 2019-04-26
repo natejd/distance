@@ -14,7 +14,7 @@ public Plugin myinfo =
 	author = "natejd4", 
 	description = "Checks distance & height from one point to another.", 
 	version = "1.0", 
-	url = ""
+	url = "https://github.com/natejd/distance"
 };
 
 ConVar g_hMsg;
